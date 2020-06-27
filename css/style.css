@@ -196,9 +196,7 @@ header .nav-active {
 }
 
 header.sticky {
-  background-color: #110f0f;
-  -webkit-box-shadow: 0px 0px 10px 1px rgba(17, 17, 17, 0.397);
-          box-shadow: 0px 0px 10px 1px rgba(17, 17, 17, 0.397);
+  background-color: #131010;
 }
 
 .cursor-grow {
